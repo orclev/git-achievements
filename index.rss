@@ -2,6 +2,7 @@
 <title>Kyle Murphy's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Pedantic (Level 1)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
