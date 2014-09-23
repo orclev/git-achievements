@@ -2,6 +2,7 @@
 <title>R. Kyle Murphy's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Carpenter (Level 15)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Architect (Level 3)</title><description>Created a new repository with git init.</description></item>
 <item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 </channel></rss>
